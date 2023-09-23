@@ -8,3 +8,5 @@ const d = '4444'
 const e = '555'
 
 const f = '6666'
+
+const g = 'remote666'
